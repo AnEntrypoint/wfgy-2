@@ -1,0 +1,8 @@
+id: home
+title: Home
+template: hero
+content:
+  heading: "WFGY 2.0 — Core Engine & TXTOS"
+  subheading: "The runtime: TXT OS, Core Flagship, OneLine invocation."
+  cta_text: "Read the paper"
+  cta_href: "./paper.html"

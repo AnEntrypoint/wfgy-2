@@ -1,0 +1,22 @@
+id: skills
+title: Skills
+template: grid
+content:
+  heading: "Capabilities"
+  description: "Recognition patterns that compose this project's skill set."
+  items:
+    - name: "txtos-boot"
+      description: "See skills/txtos-boot.md"
+      href: "https://github.com"
+    - name: "oneline-invocation"
+      description: "See skills/oneline-invocation.md"
+      href: "https://github.com"
+    - name: "flagship-engine"
+      description: "See skills/flagship-engine.md"
+      href: "https://github.com"
+    - name: "benchmark-demo"
+      description: "See skills/benchmark-demo.md"
+      href: "https://github.com"
+    - name: "module-formula-execution"
+      description: "See skills/module-formula-execution.md"
+      href: "https://github.com"
